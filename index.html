@@ -1,15 +1,21 @@
 <HTML>
-    <HEAD>
-        <SCRIPT TYPE="text/javascript"> 
-            function simpleDialog(msg) { 
-                let features = 'scrollbars=no,resizable=yes,status=no,location=no,toolbar=no,menubar=no,width=600,height=300,left=500,top=100';
-                open('/clk01/index.html', 'Clock window', features);
+    <head>
+        <script TYPE="text/javascript"> 
+            function simpleDialog(siteid) { 
+                if (siteid == 0) {
+                    let features = 'scrollbars=no,resizable=yes,status=no,location=no,toolbar=no,menubar=no,width=600,height=300,left=500,top=100';
+                    open('/clk01', 'Clock window', features);
+                } else if (siteid == 1) {
+                    let features = 'scrollbars=no,resizable=yes,status=no,location=no,toolbar=no,menubar=no,width=410,height=430,left=500,top=100';
+                    open('/clk02', 'Clock window', features);
+                } 
             } 
-        </SCRIPT>
-    </HEAD> 
-    <BODY>
+        </script>
+    </head> 
+    <body style="background-color:rgb(34, 34, 34)">
         <FORM> 
-            <INPUT type='button' value = 'Open clock window' onClick = 'simpleDialog("blank msg")'> 
+            <INPUT type='button' value = '  Clock 1  ' onClick = 'simpleDialog(0)'>
+            <INPUT type='button' value = '  Clock 2  ' onClick = 'simpleDialog(1)'> 
         </FORM>
-    </BODY>
+    </body>
 </HTML> 

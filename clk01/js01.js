@@ -93,6 +93,7 @@ function clock() {
 
     // show frame ID number
     frameID++;
+    //frameID = (frameID+1)%4;
     msg=`Frame ID: ${frameID}`;
     document.getElementById('dcount').textContent = msg;
     //window.requestAnimationFrame(clock);
@@ -126,4 +127,5 @@ var frameID=0;
 //window.requestAnimationFrame(justcount);
 //window.requestAnimationFrame(myfps);
 //setInterval(myfps, 33);
-setInterval(clock, 500);
+//setInterval(clock, 500);
+setInterval(clock, 33);
