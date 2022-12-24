@@ -1,0 +1,9 @@
+try using this instead of inline:
+
+<object type="image/svg+xml" data="image.svg"> </object>
+
+
+try
+function test(el){
+  el.childNodes.item("child").style.display = "none";
+}
