@@ -10,7 +10,7 @@ function clock(){
     ctx2.setAttribute("transform", rot)
     
     //if(oneshot){
-        //console.log(octx2);
+        //console.log(ctx2);
         //oneshot=0;
     //}
     
@@ -19,4 +19,4 @@ function clock(){
 var oneshot = 1;
 
 const ctx = document.getElementById('obj01');
-setInterval(clock, 100);
+setInterval(clock, 30);

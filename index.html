@@ -8,7 +8,10 @@
                 } else if (siteid == 1) {
                     let features = 'scrollbars=no,resizable=yes,status=no,location=no,toolbar=no,menubar=no,width=410,height=430,left=500,top=100';
                     open('/stsclock/clk02/index.html', 'Clock window', features);
-                } 
+                } else if (siteid == 2) {
+                    let features = 'scrollbars=no,resizable=yes,status=no,location=no,toolbar=no,menubar=no,width=320,height=440,left=500,top=100';
+                    open('/stsclock/clk03/index.html', 'Clock window', features);
+                }
             } 
         </script>
     </head> 
@@ -16,6 +19,7 @@
         <FORM> 
             <INPUT type='button' value = '  Clock 1  ' onClick = 'simpleDialog(0)'>
             <INPUT type='button' value = '  Clock 2  ' onClick = 'simpleDialog(1)'> 
+            <INPUT type='button' value = '  Clock 3  ' onClick = 'simpleDialog(2)'> 
         </FORM>
     </body>
 </HTML> 

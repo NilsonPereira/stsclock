@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 80 110"
+   height="110mm"
+   width="80mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     id="layer2">
+    <rect
+       y="0"
+       x="-4.4408921e-16"
+       height="110"
+       width="80"
+       id="rect836"
+       style="opacity:0.994;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.61157;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="layer1">
+    <path
+       id="path833"
+       d="m 40,10 v 90"
+       style="fill:none;stroke:#f19a6b;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     style="display:inline"
+     id="layer3">
+    <path
+       style="fill:none;stroke:#f19a6b;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 40,10 H 70"
+       id="d1a" />
+    <path
+       id="d1b"
+       d="M 40,40 H 70"
+       style="fill:none;stroke:#f19a6b;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#f19a6b;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 40,10 70,40"
+       id="d1c" />
+    <path
+       id="d1d"
+       d="M 40,40 70,10"
+       style="fill:none;stroke:#f19a6b;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#f19a6b;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 70,10 V 40"
+       id="d1e" />
+  </g>
+  <g
+     style="display:inline"
+     id="g924">
+    <path
+       id="d2a"
+       d="M 40,10 H 10"
+       style="fill:none;stroke:#f19a6b;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#f19a6b;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 40,40 H 10"
+       id="d2b" />
+    <path
+       id="d2c"
+       d="M 40,10 10,40"
+       style="fill:none;stroke:#f19a6b;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#f19a6b;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 40,40 10,10"
+       id="d2d" />
+    <path
+       id="d2e"
+       d="M 10,10 V 40"
+       style="fill:none;stroke:#f19a6b;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     style="display:inline"
+     id="g948">
+    <path
+       id="d3a"
+       d="M 40,100 H 70"
+       style="fill:none;stroke:#f19a6b;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#f19a6b;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 40,70 H 70"
+       id="d3b" />
+    <path
+       id="d3c"
+       d="M 40,100 70,70"
+       style="fill:none;stroke:#f19a6b;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#f19a6b;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 40,70 30,30"
+       id="d3d" />
+    <path
+       id="d3e"
+       d="M 70,100 V 70"
+       style="fill:none;stroke:#f19a6b;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="g960">
+    <path
+       style="fill:none;stroke:#f19a6b;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 40,100 H 10"
+       id="d4a" />
+    <path
+       id="d4b"
+       d="M 40,70 H 10"
+       style="fill:none;stroke:#f19a6b;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#f19a6b;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 40,100 10,70"
+       id="d4c" />
+    <path
+       id="d4d"
+       d="M 40,70 10,100"
+       style="fill:none;stroke:#f19a6b;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#f19a6b;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 10,100 V 70"
+       id="d4e" />
+  </g>
+  <g
+     style="display:none"
+     id="layer4">
+    <text
+       id="dig"
+       y="108.57161"
+       x="31.162758"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#2d2d2d;fill-opacity:1;stroke-width:0.264583"
+         y="108.57161"
+         x="31.162758"
+         id="tspan963">00:00</tspan></text>
+  </g>
+</svg>
